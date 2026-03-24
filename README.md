@@ -1,13 +1,13 @@
-# Hi, I'm Hashim 👋
+# Hi, I'm Hashim 
 
-## 🚀 About Me
+##  About Me
 Full-Stack Developer & Trainer specializing in Python and Django, focused on building scalable, production-grade web applications.  
 
 I design and develop real-world systems with an emphasis on clean architecture, backend performance, and practical problem-solving.
 
 ---
 
-## 💼 Professional Experience
+##💼 Professional Experience
 - 👨‍💻 Full-Stack Developer & Trainer (Python & Django)  
 - 🏗 Contributed to and developed applications including:
   - IMFN  
